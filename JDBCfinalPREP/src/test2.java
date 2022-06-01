@@ -39,6 +39,7 @@ public class test2 {
 	         System.out.println("\nRecords retrieved and displayed");
 	      } else {
 	         System.out.println("Record not found");
+	         System.out.println("Record not found");
 	      }
 	      
 			String name = "Khubu";

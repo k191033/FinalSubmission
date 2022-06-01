@@ -38,6 +38,7 @@ public class test1 {
 	         System.out.println("\nRecords retrieved and displayed");
 	      } else {
 	         System.out.println("Record not found");
+	         System.out.println("Record not found");
 	      }
 
 	      // close JDBC objects
