@@ -39,6 +39,7 @@ public class test1 {
 	      } else {
 	         System.out.println("Record not found");
 	         System.out.println("Record not found");
+	         System.out.println("Record not found");
 	      }
 
 	      // close JDBC objects

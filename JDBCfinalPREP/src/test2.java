@@ -40,6 +40,7 @@ public class test2 {
 	      } else {
 	         System.out.println("Record not found");
 	         System.out.println("Record not found");
+	         System.out.println("Record not found");
 	      }
 	      
 			String name = "Khubu";
